@@ -1,3 +1,5 @@
+db.esupport.createIndex({location:"2dsphere"});
+
 1.db.esupport.find({location:{$near:{$geometry:{type:"point",coordinates:[77.5950,12.9755]}, $maxDistance:5000}}});
 
 [
