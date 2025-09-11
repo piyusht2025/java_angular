@@ -1,0 +1,9 @@
+Spring Boot Web
+Spring MVC Layers -
+        Control Layer
+        Service Layer
+        Repository Layer
+Spring Boor GET and POST methods
+PUT and DELETE
+Spring Data JPA
+H2 Database
